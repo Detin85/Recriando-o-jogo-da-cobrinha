@@ -1,2 +1,2 @@
-# Recriando-o-jogo-da-cobrinha
+# Snake Game
 My first game code
